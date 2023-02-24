@@ -40,6 +40,7 @@ npm start
 ## Screenshots
 ![Example](./images/Screenshot%202023-02-23%20203625.png)
 ![Example](./images/Screenshot%202023-02-23%20203724.png)
+![Example](./images/Screenshot%202023-02-23%20204035.png)
 ## Contact Info
 
 Please feel free to contact me if you need any further information:
